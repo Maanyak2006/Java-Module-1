@@ -12,6 +12,8 @@ StringManipulation.java<img width="1366" height="544" alt="Screenshot (7)" src="
 Str.java<img width="1366" height="540" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/1d424d9f-8bcf-47a0-831b-2175be43db35" />
 SquareCalculator.java<img width="1366" height="536" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/9c1e3fb5-8a8c-4004-89b8-ebedc98f0bec" />
 SquareArray.java<img width="1366" height="542" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/33933631-7cb1-4948-90a1-66c4898a4293" />
+ReverseArrayPrinter.java<img width="1366" height="532" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/f51107ce-ab95-45d2-9b35-ea1b1424c636" />
+
 
 
 
