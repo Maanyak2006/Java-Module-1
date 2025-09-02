@@ -6,6 +6,8 @@ stringManipulation.java<img width="1366" height="544" alt="Screenshot (8)" src="
 inputArray.java<img width="1366" height="538" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/882542bd-d4f6-4713-a524-6ee3271c1d4e" />
 array.java<img width="1366" height="538" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/339b3e3b-5930-4535-afe4-771783c47694" />
 addition.java<img width="1366" height="540" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/af54de65-4362-4a69-bb9a-a98f77fed9e5" />
+SwapArrayElements.java<img width="1366" height="536" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/dcc4ad90-0e59-4443-9b69-5c3eb7cca73e" />
+
 
 
 
