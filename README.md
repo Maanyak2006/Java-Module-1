@@ -9,7 +9,7 @@ addition.java<img width="1366" height="540" alt="Screenshot (17)" src="https://g
 SwapArrayElements.java<img width="1366" height="536" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/dcc4ad90-0e59-4443-9b69-5c3eb7cca73e" />
 SubjectMarks.java<img width="1366" height="540" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/e1850abf-7265-437b-a375-1fe2e4bd12f1" />
 StringManipulation.java<img width="1366" height="544" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/97f64c35-5317-4ea2-bdf4-3c30a89670e9" />
-str.java<img width="1366" height="540" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/1d424d9f-8bcf-47a0-831b-2175be43db35" />
+Str.java<img width="1366" height="540" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/1d424d9f-8bcf-47a0-831b-2175be43db35" />
 
 
 
