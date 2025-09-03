@@ -14,6 +14,8 @@ SquareCalculator.java<img width="1366" height="536" alt="Screenshot (23)" src="h
 SquareArray.java<img width="1366" height="542" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/33933631-7cb1-4948-90a1-66c4898a4293" />
 ReverseArrayPrinter.java<img width="1366" height="532" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/f51107ce-ab95-45d2-9b35-ea1b1424c636" />
 AgeInput.java<img width="1366" height="363" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/196850d6-d841-4623-92aa-e1559cc65aeb" />
+CircleArea.java<img width="1366" height="536" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/09b60233-d5ca-424e-8fa2-043ce4f696b8" />
+
 
 
 
