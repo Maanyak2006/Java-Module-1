@@ -23,6 +23,8 @@ Greater.java<img width="1366" height="538" alt="Screenshot (40)" src="https://gi
 FindMinElement.java<img width="1366" height="532" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/bc7cd744-18e9-4d26-a2b5-1b7de5acb965" />
 FindGreaterNumber.java<img width="1365" height="546" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/31afbedb-c83d-41a5-ba30-a380f15b77b5" />
 EvenOddChecker.java<img width="1366" height="536" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/46c3fe0e-7b8a-49b5-a9f6-54f5f6d05dfe" />
+FindIndex.java<img width="1366" height="523" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/b642a381-5767-444a-965f-e3869f793505" />
+
 
 
 
