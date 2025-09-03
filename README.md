@@ -27,6 +27,8 @@ FindIndex.java<img width="1366" height="523" alt="Screenshot (48)" src="https://
 EvenNumbersInArray.java<img width="1366" height="530" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/36fc9418-7225-4be1-8dd8-282087785100" />
 CountOccurrences.java<img width="1366" height="534" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/081876c9-722a-461e-9b20-f0408452a6b5" />
 CheckArrayElements.java<img width="1366" height="542" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/6baf4e35-a77b-4621-8f15-96b9308d78c6" />
+ArraySum.java<img width="1366" height="536" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/816f8a1a-9c1e-43b3-aca9-e9478434a698" />
+
 
 
 
