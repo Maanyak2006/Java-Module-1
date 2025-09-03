@@ -31,6 +31,8 @@ ArraySum.java<img width="1366" height="536" alt="Screenshot (56)" src="https://g
 ArraySearch.java<img width="1366" height="528" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/95fba258-54ed-4fa7-a36e-297d26864dde" />
 ArrayEvenOddCount.java<img width="1366" height="532" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/362423e1-8785-4f17-8e6e-77c87bc32afe" />
 ArrayCounter.java<img width="1366" height="548" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/9de4146e-39aa-4b6a-8114-e22094dc393e" />
+ArrayCopyExample.java<img width="1365" height="534" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/ca1a4e01-0637-4f21-974e-b169898ddf21" />
+
 
 
 
