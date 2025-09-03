@@ -20,6 +20,8 @@ MaxElementFinder.java<img width="1365" height="538" alt="Screenshot (34)" src="h
 Main.java<img width="1365" height="540" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/bc02ccfc-02c1-4fb0-b9b9-ea443f5759a0" />
 Greeting.java<img width="1366" height="536" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/1396d4c6-19df-4948-8f89-da1ac75b3252" />
 Greater.java<img width="1366" height="538" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/f9f5d06f-7dcb-4846-84a7-dee162ffa5d9" />
+FindMinElement.java<img width="1366" height="532" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/bc7cd744-18e9-4d26-a2b5-1b7de5acb965" />
+
 
 
 
