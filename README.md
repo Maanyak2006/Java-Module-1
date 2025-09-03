@@ -16,7 +16,6 @@ ReverseArrayPrinter.java<img width="1366" height="532" alt="Screenshot (27)" src
 PrintOddNumbers.java<img width="1366" height="538" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/5664217a-1a94-443b-b23d-b4b785c634ab" />
 AgeInput.java<img width="1366" height="363" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/196850d6-d841-4623-92aa-e1559cc65aeb" />
 CircleArea.java<img width="1366" height="536" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/09b60233-d5ca-424e-8fa2-043ce4f696b8" />
-<img width="1366" height="538" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/5664217a-1a94-443b-b23d-b4b785c634ab" />
 
 
 
