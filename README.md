@@ -28,6 +28,8 @@ EvenNumbersInArray.java<img width="1366" height="530" alt="Screenshot (50)" src=
 CountOccurrences.java<img width="1366" height="534" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/081876c9-722a-461e-9b20-f0408452a6b5" />
 CheckArrayElements.java<img width="1366" height="542" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/6baf4e35-a77b-4621-8f15-96b9308d78c6" />
 ArraySum.java<img width="1366" height="536" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/816f8a1a-9c1e-43b3-aca9-e9478434a698" />
+ArraySearch.java<img width="1366" height="528" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/95fba258-54ed-4fa7-a36e-297d26864dde" />
+
 
 
 
