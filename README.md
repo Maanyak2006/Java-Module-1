@@ -17,6 +17,8 @@ PrintOddNumbers.java<img width="1366" height="538" alt="Screenshot (29)" src="ht
 AgeInput.java<img width="1366" height="363" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/196850d6-d841-4623-92aa-e1559cc65aeb" />
 CircleArea.java<img width="1366" height="536" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/09b60233-d5ca-424e-8fa2-043ce4f696b8" />
 MaxElementFinder.java<img width="1365" height="538" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/bcc1d2e1-4d97-439b-b865-530de2a1f73b" />
+Main.java<img width="1365" height="540" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/bc02ccfc-02c1-4fb0-b9b9-ea443f5759a0" />
+
 
 
 
