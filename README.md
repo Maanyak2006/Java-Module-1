@@ -33,6 +33,8 @@ ArrayEvenOddCount.java<img width="1366" height="532" alt="Screenshot (60)" src="
 ArrayCounter.java<img width="1366" height="548" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/9de4146e-39aa-4b6a-8114-e22094dc393e" />
 ArrayCopyExample.java<img width="1365" height="534" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/ca1a4e01-0637-4f21-974e-b169898ddf21" />
 StringLength.java<img width="1366" height="538" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/7a8d5fd3-1893-457c-bcb3-db02fd7598be" />
+FirstLastChar.java<img width="1366" height="536" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/ade44014-79ff-4b67-97ac-28f4c60e04a2" />
+
 
 
 
