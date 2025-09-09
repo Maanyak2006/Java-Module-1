@@ -35,6 +35,7 @@ ArrayCopyExample.java<img width="1365" height="534" alt="Screenshot (64)" src="h
 StringLength.java<img width="1366" height="538" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/7a8d5fd3-1893-457c-bcb3-db02fd7598be" />
 FirstLastChar.java<img width="1366" height="536" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/ade44014-79ff-4b67-97ac-28f4c60e04a2" />
 StringPalindromeCheck.java<img width="1366" height="524" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/73b5ddf7-673f-4103-ab43-3aca0149f020" />
+StringReplace.java<img width="1366" height="546" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/83e60cb8-39b0-4a18-b432-98a9e9268c7d" />
 
 
 
